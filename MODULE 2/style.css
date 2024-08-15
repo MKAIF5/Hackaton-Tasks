@@ -1,0 +1,112 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #1e1e1e, #333);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: rgba(30, 30, 30, 0.9);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    max-width: 500px;
+    text-align: center;
+    animation: fadeIn 1s ease-out;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.converter {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+input[type="number"], select {
+    background: #222;
+    color: #ddd;
+    border: 2px solid #444;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 1.1em;
+    transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+input[type="number"]:focus, select:focus {
+    border-color: #f06;
+    background: #333;
+    outline: none;
+}
+
+button {
+    background: #f06;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+button:hover {
+    background: #e05a5a;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+.result {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+p {
+    font-size: 1.2em;
+    color: #f06;
+    margin: 10px 0;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
