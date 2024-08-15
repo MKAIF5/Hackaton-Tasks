@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+}
+
+
+nav {
+    background-color: rgb(0, 0, 13);
+    height: auto;
+    width: 100%;
+    color: white;
+}
+
+.nav {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70%;
+
+}
+
+nav .nav-left {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+nav .nav-left span {
+    font-size: 16px;
+}
+
+nav .nav-left i {
+    font-size: 32px;
+    width: 33px;
+}
+
+.nav-right {
+    display: flex;
+    gap: 23px;
+    font-size: 14px;
+}
+
+nav .nav-main h1 {
+    color: white;
+    font-size: 72px;
+    font-weight: 800;
+
+}
+
+nav .nav-main .nav-p {
+    font-size: 24px;
+    color: #6e7681;
+}
+
+nav .nav-main button {
+    width: 273px;
+    height: 56px;
+    padding: 16px 30px 20px 30px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    font-weight: 600;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+nav .nav-main .nav-p-p {
+    color: white;
+    font-size: 14px;
+}
+
+nav .nav-hero {
+    display: flex;
+    justify-content: center;
+}
+
+.sec-main {
+    background-image: url(./images/./light-glow\ \(1\).svg);
+    background-position: bottom;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    background-color: rgb(3, 3, 3);
+}
+
+.sec-main p {
+    color: white;
+}
+
+.sec-main .sec-first a {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.sec-main .sec-first p {
+    font-size: 16px;
+}
+
+.sec-imp {
+    width: 900px;
+    height: 400px;
+    background-color: #010409;
+    padding: 15px;
+}
+
+.sec-imp .imp-one {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-two {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-three {
+    width: 15px;
+    height: 15px;
+    background-color: #1a1a1b;
+    border-radius: 50%;
+}
+
+.sec-imp .imp-resp {
+    display: flex;
+    gap: 5px;
+}
+
+.sec-imp .imp-play .fa-pause {
+    font-size: 25px;
+}
+
+.sec-imp .sec-resp {
+    display: flex;
+    justify-content: space-around;
+    gap: 90%;
+}
+
+.sec-imp p {
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    word-spacing: 1.5px;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+}
+
+.sec-main h5 {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+.main {
+    width: 100%;
+    height: 442px;
+    background-color: white;
+    padding: 50px;
+}
+
+.main h2 {
+    font-size: 64px;
+    font-weight: 800;
+    color: #1f2328;
+}
+
+
+.main .main-m .main-one {
+    line-height: 27px;
+}
+
+.main .main-m .main-two {
+    line-height: 27px;
+}
+
+.main .main-m .main-three {
+    line-height: 27px;
+}
+
+.main .main-m .main-four {
+    line-height: 27px;
+}
+
+.main .main-m .main-one h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1f2328;
+
+}
+
+.main .main-m .main-one p {
+    font-size: 14px;
+    color: #6e7681;
+}
+
+.main .main-m .main-one a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #0969da;
+}
+
+.main .main-m .main-two h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1f2328;
+}
+
+.main .main-m .main-two p {
+    font-size: 14px;
+    color: #6e7681;
+}
+
+.main .main-m .main-two a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #0969da;
+}
+
+.main .main-m .main-three h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1f2328;
+}
+
+.main .main-m .main-three p {
+    font-size: 14px;
+    color: #6e7681;
+}
+
+.main .main-m .main-three a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #0969da;
+}
+
+.main .main-m .main-four h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #1f2328;
+}
+
+.main .main-m .main-four p {
+    font-size: 14px;
+    color: #6e7681;
+}
+
+.main .main-m .main-four a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #0969da;
+}
+
+.main .main-m {
+    display: flex;
+    gap: 50px;
+}
+
+section {
+    background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+    width: 100%;
+    height: 450px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+section .main-last {
+    width: 616px;
+    height: 255px;
+    background-color: white;
+    margin-top: 40px;
+    padding: 30px 30px 30px 30px;
+}
+
+
+section .main-last h2 {
+    font-size: 32px;
+    font-weight: 800;
+    color: #1f2328;
+}
+
+
+section .main-last p {
+    font-size: 16px;
+    color: #6e7681;
+}
+
+section .main-last button {
+    width: 218px;
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+    background-color: #1b1f23;
+    color: white;
+    font-size: 14px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px 2px white;
+}
+
+section .main-last a {
+    font-size: 14px;
+    color: #0969da;
+    text-decoration: none;
+}
+
+footer {
+    width: 100%;
+    height: 313px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+footer p {
+    font-size: 14px;
+    color: #6e7681;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+footer .footer-p {
+    font-size: 16px;
+    color: #1f2328;
+    letter-spacing: 1px;
+}
+
+footer .footer-main {
+    display: flex;
+    gap: 50px;
+}
+
+.cli-last {
+    width: 100%;
+    height: 68px;
+    background-color: rgb(241, 248, 248);
+    color: #1f2328;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cli-last .cli-first {
+    display: flex;
+    gap: 10px;
+}
+
+.cli-last .cli-lasts {
+    display: flex;
+    gap: 10px;
+}
+
+.cli-last p {
+    font-size: 12px;
+}
+
+.cli-last i {
+    font-size: 18px;
+}

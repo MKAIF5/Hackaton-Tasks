@@ -1,0 +1,657 @@
+@media only screen and (max-width:1110px) {
+    .main {
+        height: auto;
+    }
+
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+
+    }
+}
+
+
+@media only screen and (max-width:960px) {
+    .sec-imp {
+        width: 700px;
+        background-color: #010409;
+        padding: 15px;
+    }
+
+    .sec-imp p {
+        font-size: 13px;
+    }
+
+    .main .main-h2 h2 {
+        font-size: 40px;
+    }
+
+    .main .main-m .main-one h3 {
+        font-size: 20px;
+    }
+
+    .main .main-m .main-two h3 {
+        font-size: 20px;
+    }
+
+    .main .main-m .main-three h3 {
+        font-size: 20px;
+    }
+
+    .main .main-m .main-four h3 {
+        font-size: 20px;
+    }
+
+    .main .main-m .main-one p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-two p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-three p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-four p {
+        font-size: 12px;
+    }
+
+
+    .main .main-m .main-one a {
+        font-size: 10px;
+    }
+
+    .main .main-m .main-two a {
+        font-size: 10px;
+    }
+
+    .main .main-m .main-three a {
+        font-size: 10px;
+    }
+
+    .main .main-m .main-four a {
+        font-size: 10px;
+    }
+
+    section .main-last {
+        width: 800px;
+        height: auto;
+    }
+
+    section .main-last h2 {
+        font-size: 20px;
+    }
+
+    section .main-last p {
+        font-size: 14px;
+    }
+
+    section .main-last button {
+        font-size: 11px;
+        width: 180px;
+        height: 45px;
+    }
+
+    section .main-last a {
+        font-size: 13px;
+    }
+
+    footer {
+        flex-direction: column;
+        padding: 30px;
+    }
+
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+
+    }
+}
+
+
+
+
+
+@media only screen and (max-width:840px) {
+    nav .nav-main h1 {
+        font-size: 40px;
+    }
+
+    nav .nav-main .nav-p {
+        font-size: 20px;
+    }
+
+    nav .nav-main button {
+        width: 230px;
+        font-size: 13px;
+    }
+
+    nav .nav-main .nav-p-p {
+        font-size: 13px;
+    }
+
+    nav .nav-right {
+        font-size: 12px;
+    }
+
+    nav .nav {
+        display: flex;
+        justify-content: center;
+        gap: 50%;
+    }
+
+    .sec-imp {
+        width: 500px;
+        background-color: #010409;
+        padding: 15px;
+    }
+
+    .sec-imp p {
+        font-size: 12px;
+    }
+
+    .sec-main a {
+        font-size: 10px;
+    }
+
+    .sec-main p {
+        font-size: 12px;
+    }
+
+    .sec-imp .imp-one {
+        width: 10px;
+        height: 10px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-two {
+        width: 10px;
+        height: 10px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-three {
+        width: 10px;
+        height: 10px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-play .fa-pause {
+        font-size: 17px;
+    }
+
+    .main {
+        height: auto;
+    }
+
+    section .main-last {
+        width: 700px;
+        height: auto;
+    }
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+
+    }
+
+}
+
+
+@media only screen and (max-width:720px) {
+    nav .nav-main h1 {
+        font-size: 35px;
+    }
+
+    nav .nav-main .nav-p {
+        font-size: 17px;
+    }
+
+    nav .nav-main button {
+        width: 200px;
+        font-size: 11px;
+    }
+
+    nav .nav-main .nav-p-p {
+        font-size: 11px;
+    }
+
+    nav .nav-right {
+        font-size: 10px;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: center;
+        gap: 50%;
+    }
+
+    .main .main-h2 h2 {
+        font-size: 23px;
+    }
+
+    .main .main-m .main-one h3 {
+        font-size: 19px;
+    }
+
+    .main .main-m .main-two h3 {
+        font-size: 19px;
+    }
+
+    .main .main-m .main-three h3 {
+        font-size: 19px;
+    }
+
+    .main .main-m .main-four h3 {
+        font-size: 19px;
+    }
+
+    .main .main-m .main-one p {
+        font-size: 14px;
+    }
+
+    .main .main-m .main-two p {
+        font-size: 14px;
+    }
+
+    .main .main-m .main-three p {
+        font-size: 14px;
+    }
+
+    .main .main-m .main-four p {
+        font-size: 14px;
+    }
+
+    .main .main-m {
+        flex-direction: column;
+    }
+
+    .main {
+        height: auto;
+    }
+
+    section .main-last {
+        width: 550px;
+        height: auto;
+    }
+
+    section .main-last button {
+        width: 150px;
+        font-size: 9px;
+    }
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding: 20px;
+
+    }
+
+    section .main-last {
+        height: 230px;
+    }
+
+}
+
+@media only screen and (max-width:560px) {
+    .sec-imp {
+        width: 400px;
+        background-color: #010409;
+        padding: 15px;
+    }
+
+    .sec-imp p {
+        font-size: 10px;
+        text-wrap: wrap;
+    }
+
+    .sec-main a {
+        font-size: 10px;
+    }
+
+    .sec-main p {
+        font-size: 10px;
+    }
+
+    .sec-imp .imp-one {
+        width: 7px;
+        height: 7px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-two {
+        width: 7px;
+        height: 7px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-three {
+        width: 7px;
+        height: 7px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-play .fa-pause {
+        font-size: 14px;
+    }
+
+    .sec-main h5 {
+        font-size: 19px;
+    }
+
+    .sec-main a img {
+        width: 400px;
+    }
+
+    .main {
+        height: auto;
+    }
+
+
+    .main-last {
+        padding: 20px;
+    }
+
+    footer {
+        height: auto;
+    }
+
+    footer .footer-main {
+        padding-top: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    footer p {
+        font-size: 16px;
+        color: #6e7681;
+        letter-spacing: 1px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    footer .footer-p {
+        font-size: 18px;
+        color: #1f2328;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding: 20px;
+
+    }
+
+}
+
+@media only screen and (max-width:470px) {
+    nav {
+        text-wrap: wrap;
+    }
+
+    nav .nav {
+        display: flex;
+        justify-content: center;
+        gap: 30%;
+    }
+
+    nav .nav-main h1 {
+        font-size: 25px;
+    }
+
+    nav .nav-hero {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav .nav-main .nav-p {
+        font-size: 15px;
+    }
+
+    nav .nav-main button {
+        width: 150px;
+        font-size: 10px;
+    }
+
+    nav .nav-main .nav-p-p {
+        font-size: 10px;
+    }
+
+    nav .nav-right {
+        font-size: 10px;
+    }
+
+    .sec-imp {
+        width: 300px;
+        background-color: #010409;
+        padding: 15px;
+    }
+
+    .sec-imp p {
+        font-size: 8px;
+        text-wrap: wrap;
+    }
+
+    .sec-main a {
+        font-size: 10px;
+    }
+
+    .sec-main p {
+        font-size: 10px;
+    }
+
+    .sec-imp .imp-one {
+        width: 5px;
+        height: 5px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-two {
+        width: 5px;
+        height: 5px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-three {
+        width: 5px;
+        height: 5px;
+        background-color: #1a1a1b;
+        border-radius: 50%;
+    }
+
+    .sec-imp .imp-play .fa-pause {
+        font-size: 14px;
+    }
+
+    .sec-main h5 {
+        font-size: 15px;
+    }
+
+    .sec-main a img {
+        width: 350px;
+    }
+
+    .main {
+        height: auto;
+    }
+
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding: 20px;
+
+    }
+
+    section .main-last {
+        height: auto;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    nav .nav-hero {
+        display: flex;
+        justify-content: center;
+        margin-left: 10px;
+    }
+
+    nav .nav-main h1 {
+        font-size: 20px;
+    }
+
+    .sec-imp {
+        width: 250px;
+        background-color: #010409;
+        padding: 15px;
+    }
+
+    .sec-main a img {
+        width: 270px;
+    }
+
+
+    .main .main-h2 h2 {
+        font-size: 21px;
+    }
+
+    .main .main-m .main-one h3 {
+        font-size: 17px;
+    }
+
+    .main .main-m .main-two h3 {
+        font-size: 17px;
+    }
+
+    .main .main-m .main-three h3 {
+        font-size: 17px;
+    }
+
+    .main .main-m .main-four h3 {
+        font-size: 17px;
+    }
+
+    .main .main-m .main-one p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-two p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-three p {
+        font-size: 12px;
+    }
+
+    .main .main-m .main-four p {
+        font-size: 12px;
+    }
+
+    .main {
+        height: auto;
+    }
+
+    .cli-last p {
+        font-size: 9px;
+    }
+
+    .cli-last i {
+        font-size: 14px;
+    }
+
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding: 20px;
+
+    }
+
+    section .main-last {
+        height: auto;
+    }
+
+}
+
+@media only screen and (max-width:300px) {
+    nav .nav {
+        display: flex;
+        justify-content: center;
+        gap: 10%;
+    }
+
+    nav .nav-hero {
+        display: flex;
+        justify-content: center;
+    }
+
+    nav .nav-main h1 {
+        font-size: 20px;
+    }
+
+    nav .nav-main .nav-p {
+        font-size: 12px;
+    }
+
+    nav .nav-main button {
+        width: 150px;
+        font-size: 9px;
+    }
+
+    nav .nav-main .nav-p-p {
+        font-size: 7px;
+    }
+
+    .main {
+        height: auto;
+    }
+
+    .cli-last p {
+        font-size: 7px;
+    }
+
+    .cli-last i {
+        font-size: 13px;
+    }
+
+
+    section {
+        background-image: url("	https://cli.github.com/assets/images/square-pattern.png");
+        background-size: cover;
+        background-position: center;
+        align-items: center;
+        padding: 10px;
+
+    }
+
+    section .main-last {
+        height: auto;
+    }
+}
